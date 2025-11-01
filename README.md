@@ -36,6 +36,12 @@
 
 ---
 
+### 🎓 Background
+
+Computer Engineering graduate from **UiT - The Arctic University of Norway** specializing in IoT and eHealth Technology. Coursework included Machine Learning, Computer Vision, Computer Graphics, and Embedded Systems.
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -48,11 +54,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madeleinewoodbury&layout=compact&theme=prussian" alt="Top Langs" />
 </p>
 
----
-
-### 🎓 Background
-
-Computer Engineering graduate from **UiT - The Arctic University of Norway** specializing in IoT and eHealth Technology. Coursework included Machine Learning, Computer Vision, Computer Graphics, and Embedded Systems.
 
 ---
 
