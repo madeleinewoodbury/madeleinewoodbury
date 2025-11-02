@@ -7,14 +7,6 @@
 
 ---
 
-### 🧠 What I Do
-
-- 💻 **Full-Stack Development** — React • Next.js • Node.js • FastAPI • TypeScript
-- 🎨 **Frontend Engineering** — Modern UI/UX • Responsive design • Component architecture
-- 🏗️ **Systems & Infrastructure** — E-commerce platforms • PostgreSQL • AWS • Docker
-
----
-
 ### 🔥 Skills
 
 <p align="left">
