@@ -30,7 +30,7 @@
 
 ### 🎓 Background
 
-Computer Engineering graduate from **UiT - The Arctic University of Norway** specializing in IoT and eHealth Technology. Coursework included Machine Learning, Computer Vision, Computer Graphics, and Embedded Systems.
+I earned my degree in Computer Engineering from **UiT – The Arctic University of Norway**, where I focused on IoT and eHealth technologies. Courses in Machine Learning, Computer Vision, and Computer Graphics shaped my interest in building data-driven, visually engaging full-stack applications.
 
 ---
 
