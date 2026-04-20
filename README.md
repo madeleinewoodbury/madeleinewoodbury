@@ -9,7 +9,7 @@
 
 ### 🔥 Skills
 
-<p align="left">
+<div align="left" style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 12px;">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" style="margin-right: 12px;" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" style="margin-right: 12px;" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" style="margin-right: 12px;" />
@@ -24,7 +24,7 @@
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" style="margin-right: 12px;" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" style="margin-right: 12px;" />
   
-</p>
+</div>
 
 ---
 
